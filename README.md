@@ -1,2 +1,2 @@
 # ClassicPhysics
-Die „klassische“ Physik (Mechanik, Akustik, Optik und Wär- melehre)Themen.
+Die „klassische“ Physik (Mechanik, Akustik, Optik , Wärmelehre und Atomphysik)Themen.
